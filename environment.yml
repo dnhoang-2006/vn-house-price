@@ -1,0 +1,11 @@
+name: vnhp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.1
+  - numpy=1.26
+  - matplotlib=3.8
+  - notebook=6.5
+  - ipykernel=6.29
+  
