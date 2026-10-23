@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+ # Dataset (download from Kaggle, see README)
+   data/
